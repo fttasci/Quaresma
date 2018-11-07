@@ -18,5 +18,7 @@ public class Signup
         b.click_Login_counselor();
 
         b.click_Login_counselor();
+        b.click_Login_counselor();
+
     }
 }
